@@ -1,0 +1,193 @@
+.conteiner-grid{
+	display: grid;
+	justify-content: center;
+	grid-row-gap: 20px;
+	grid-column-gap: 30px;
+	grid-template-columns: 0fr 0fr 0fr 0fr;
+	grid-template-rows: 23% 23% 23% 23%;
+}
+
+.conteiner-grid > .carta1{
+	align-items: center;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_JLJwCssTJ-iQUnsbhKsVUx77wxzzOI-dg&usqp=CAU');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.carta1:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta2{
+	align-items: center;
+	background-image: url('https://i.pinimg.com/736x/cc/94/21/cc94217b1da6aff5ba8623384520b524.jpg');
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+
+.carta2:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta3{
+	align-items: center;
+	background-image: url('https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg');
+	background-size: 110%;
+	background-repeat: no-repeat;
+	
+}
+
+.carta3:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta4{
+	align-items: center;
+	background-image: url('https://www.essemundoenosso.com.br/wp-content/uploads/2020/04/fotos-de-paraty-1-740x722.jpg');
+	background-size: 150%;
+	background-repeat: no-repeat;
+}
+
+.carta4:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta5{
+	align-items: center;
+	background-image: url('https://www.istockphoto.com/resources/images/PhotoFTLP/998044806.jpg');
+	background-size: 150%;
+	background-repeat: no-repeat;
+}
+
+.carta5:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta6{
+	align-items: center;
+	background-image: url('https://www.essemundoenosso.com.br/wp-content/uploads/2020/04/fotos-de-paraty-1-740x722.jpg');
+	background-size: 150%;
+	background-repeat: no-repeat;
+}
+
+.carta6:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta7{
+	align-items: center;
+	background-image: url('https://www.istockphoto.com/resources/images/PhotoFTLP/998044806.jpg');
+	background-size: 150%;
+	background-repeat: no-repeat;
+}
+
+.carta7:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta8{
+	align-items: center;
+	background-image: url('https://thumbs.dreamstime.com/b/bal%C3%A3o-de-ar-quente-03-5857964.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.carta8:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta9{
+	align-items: center;
+	background-image: url('https://i.pinimg.com/236x/17/1f/5d/171f5d8322fed540002a60e793486b94.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.carta9:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta10{
+	align-items: center;
+	background-image: url('https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg');
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+
+.carta10:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta11{
+	align-items: center;
+	background-image: url('https://i.pinimg.com/736x/37/d8/9f/37d89fa0319df50c1a473e07e24db45e.jpg');
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+
+.carta11:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta12{
+	align-items: center;
+	background-image: url('https://i.pinimg.com/736x/37/d8/9f/37d89fa0319df50c1a473e07e24db45e.jpg');
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+
+.carta12:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta13{
+	align-items: center;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_JLJwCssTJ-iQUnsbhKsVUx77wxzzOI-dg&usqp=CAU');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.carta13:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta14{
+	align-items: center;
+	background-image: url('https://i.pinimg.com/736x/cc/94/21/cc94217b1da6aff5ba8623384520b524.jpg');
+	background-size: 110%;
+}
+
+.carta14:hover img{
+	position: relative;
+	opacity: 0;
+}
+.conteiner-grid > .carta15{
+	align-items: center;
+	background-image: url('https://i.pinimg.com/236x/17/1f/5d/171f5d8322fed540002a60e793486b94.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.carta15:hover img{
+	position: relative;
+	opacity: 0;
+}
+
+.conteiner-grid > .carta16{
+	align-items: center;
+	background-image: url('https://thumbs.dreamstime.com/b/bal%C3%A3o-de-ar-quente-03-5857964.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.carta16:hover img{
+	position: relative;
+	opacity: 0;
+}
